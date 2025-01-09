@@ -36,7 +36,7 @@ newlines: 	.string "\n\n\n\n"
 # [2] Tony Zhang. 2021. How computers generate RANDOMNESS from math. Video. (25 August 2021).
 # Retrieved April 18, 2024 from https://www.youtube.com/watch?v=nBq4sFg3at0
 
-# partial implenentation of the multiplayer is inside WHILE and a sad attempt of printing a leaderboard is
+# partial implenentation of the multiplayer is inside WHILE and an attempt of printing a leaderboard is
 # at the bottom. Also, there is a regen function to restore the board for the next player down there.
 #IMPLEMENTATIONL: basically, there is a counter that is the number of players in the game. Additionally,
 #there is a move counter. once a turn is complete, the moves is stored into the stack and the current turn
